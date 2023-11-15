@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'blog.apps.BlogConfig',
     'shell_plus',
-    'django_extensions'
+    'django_extensions',
+    'taggit',
 ]
 
 MIDDLEWARE = [
